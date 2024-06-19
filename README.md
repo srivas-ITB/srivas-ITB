@@ -1,4 +1,13 @@
-## Hi there 👋
+# Santi Rivas 👋
+
+## Experiència docent
+2023-.... - Institut Tecnològic de Barcelona <p>
+2020-2023 - Institut Pedralbes
+
+## Experència a l'empresa privada
+2009-2019 - Solport Sistemas s.l <p>
+2006-2009 - Schneider Electric s.a.
+...
 
 <!--
 **srivas-ITB/srivas-ITB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
