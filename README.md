@@ -7,6 +7,10 @@
 ## Experència a l'empresa privada
 2009-2019 - Solport Sistemas s.l <p>
 2006-2009 - Schneider Electric s.a.
+2005-2006 - Wolters Kluwer
+2002-2005 - Pérez y Cia
+1998-2002 - AGM - QSystems
+1996-1998 - MPM Software
 ...
 
 <!--
