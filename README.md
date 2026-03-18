@@ -4,7 +4,7 @@
 2023-.... - Institut Tecnològic de Barcelona <p>
 2020-2023 - Institut Pedralbes
 
-## Experència a l'empresa privada
+## Experiència a l'empresa privada
 2009-2019 - Solport Sistemas s.l <p>
 2006-2009 - Schneider Electric s.a.
 2005-2006 - Wolters Kluwer
